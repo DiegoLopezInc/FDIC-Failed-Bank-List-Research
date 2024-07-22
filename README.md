@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Hypothesis Testing FDIC-Failed-Bank-List-Research</title>
-</head>
 <body>
   <h1>FDIC-Failed-Bank-List-Research</h1>
   <h2>Overview</h2>
