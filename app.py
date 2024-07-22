@@ -6,6 +6,7 @@ import dataCleaner as dc
 def main():
     sl.title("Data Cleaner")
     file_path = "./bank_failures.csv"
+    # TODO: Debug this function
     data_hashtable = dc.read_csv_to_hashtable(file_path)
     sl.write(data_hashtable)
     
